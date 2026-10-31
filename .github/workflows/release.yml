@@ -20,4 +20,4 @@ jobs:
       - name: Set up Node.js
         uses: ./.github/actions/setup
       - run: pnpm validate
-      - run: pnpm semantic-release
+      - run: pnpm reelout
