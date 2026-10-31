@@ -1,7 +1,7 @@
 # from-async
 
 [![NPM Version](https://img.shields.io/npm/v/from-async)](https://www.npmjs.com/package/from-async)
-[![Codecov](https://img.shields.io/codecov/c/github/aicest/from-async?token=GQC7YN4VN2)](https://app.codecov.io/github/aicest/from-async)
+[![Codecov](https://img.shields.io/codecov/c/github/reelout/from-async?token=GQC7YN4VN2)](https://app.codecov.io/github/reelout/from-async)
 
 A minimal ponyfill for [`Array.fromAsync`](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/fromAsync).
 It converts async iterables, sync iterables, and array-like objects into arrays.
